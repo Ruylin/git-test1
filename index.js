@@ -1,2 +1,2 @@
-let lyj = 'LLLLLLLLLLLLLLLLLL'
+let lyj = 'xxxxxxxxxx'
 console.log(true);
