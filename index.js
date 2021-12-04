@@ -1,2 +1,2 @@
-let lyj = 'father'
+let lyj = 'LLLLLLLLLLLLLLLLLL'
 console.log(true);
