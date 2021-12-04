@@ -1,11 +1,2 @@
-lyr is father
-lyj is son
-lyr is father
-lyj is son
-lyr is father
-lyj is son
-lyr is father
-lyj is sonlyr is father
-lyj is son
-lyr is father
-lyj is son
+lyj is father
+lyj is fatherlyj is fatherlyj is fatherlyj is fatherlyj is father
